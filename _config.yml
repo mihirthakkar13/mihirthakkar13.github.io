@@ -1,0 +1,64 @@
+# Site settings
+title: "Pavan Pandya"
+description: ""
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Pavan Pandya"
+resume_title:                   "Data Alchemist Crafting Insights 📊✨"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "pavanpandya.iu@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "930-333-4105"
+resume_contact_address:         "100 E Miller Dr, Apt 47, Bloomington, Indiana, 47401, USA"
+
+resume_header_contact_info:     "Bloomington, Indiana • 930-333-4105 • pavanpandya.iu@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "In the realm where data speaks volumes, I am Pavan Pandya, a Data Alchemist weaving magic with ones and zeros. Mastering the art of Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision, I orchestrate solutions that transcend algorithms. From fine-tuning models to orchestrating AI-driven applications, I navigate the digital landscape with precision. With a penchant for problem-solving and a purpose-driven approach, I am on a mission to unravel insights, elevate efficiency, and shape a future where data isn't just processed, but transformed into meaningful narratives. Join me on this journey, where every line of code is a brushstroke painting the canvas of innovation. 🌐🚀</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+resume_pdf_url: "https://drive.google.com/file/d/1mWue03i3Y2_xBsNB8Uz7HA60sZH5O88O/view?usp=sharing"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/pavanpandya"
+  resume_twitter_url:           "http://twitter.com/pavanpandya1311"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/pavanpandya"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://pavanpandya.us"
+  resume_medium_url:            "https://medium.com/@pavanpandya1311"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
