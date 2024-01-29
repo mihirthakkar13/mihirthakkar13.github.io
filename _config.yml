@@ -1,5 +1,5 @@
 # Site settings
-title: "Pavan Pandya"
+title: "Mihir Thakkar"
 description: ""
 
 # Build settings
@@ -10,27 +10,27 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Pavan Pandya"
+resume_name:                    "Mihir Thakkar"
 resume_title:                   "Data Alchemist Crafting Insights 📊✨"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "pavanpandya.iu@gmail.com"
+resume_contact_email:           "mihirthakkar1113@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "930-333-4105"
-resume_contact_address:         "100 E Miller Dr, Apt 47, Bloomington, Indiana, 47401, USA"
+resume_contact_telephone:       "667-419-0340"
+resume_contact_address:         "1011 Kuhn Rd. Apt-5, 60188, Carol Stream, IL"
 
-resume_header_contact_info:     "Bloomington, Indiana • 930-333-4105 • pavanpandya.iu@gmail.com"
+resume_header_contact_info:     "Chicago,Illinois • 667-419-0340 • mihirthakkar1113@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "In the realm where data speaks volumes, I am Pavan Pandya, a Data Alchemist weaving magic with ones and zeros. Mastering the art of Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision, I orchestrate solutions that transcend algorithms. From fine-tuning models to orchestrating AI-driven applications, I navigate the digital landscape with precision. With a penchant for problem-solving and a purpose-driven approach, I am on a mission to unravel insights, elevate efficiency, and shape a future where data isn't just processed, but transformed into meaningful narratives. Join me on this journey, where every line of code is a brushstroke painting the canvas of innovation. 🌐🚀</p>"
+resume_header_intro: ""
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
 resume_looking_for_work:        "yes"
-resume_pdf_url: "https://drive.google.com/file/d/1mWue03i3Y2_xBsNB8Uz7HA60sZH5O88O/view?usp=sharing"
+resume_pdf_url: "resume-drive-link"
 
 # Decide which sections to use
 # comment out to hide
