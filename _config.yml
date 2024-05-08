@@ -46,11 +46,11 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/pavanpandya"
-  resume_twitter_url:           "http://twitter.com/pavanpandya1311"
+  resume_github_url:            "https://github.com/mihirthakkar13"
+  #resume_twitter_url:           "http://twitter.com/pavanpandya1311"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/pavanpandya"
+  resume_linkedin_url:          "linkedin.com/in/mihir-thakkar-960615250"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://mihirthakkar.co"
  # resume_medium_url:            "https://medium.com/@pavanpandya1311"
