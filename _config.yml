@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Mihir Thakkar"
-resume_title:                   "Data Alchemist Crafting Insights 📊✨"
+resume_title:                   "Data Driven Business analyst"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "mihirthakkar1113@gmail.com"
@@ -52,8 +52,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/pavanpandya"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://pavanpandya.us"
-  resume_medium_url:            "https://medium.com/@pavanpandya1311"
+  resume_website_url:           "http://mihirthakkar.co"
+ # resume_medium_url:            "https://medium.com/@pavanpandya1311"
 resume_print_social_links:      true
 
 # Design settings
