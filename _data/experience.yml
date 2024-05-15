@@ -1,43 +1,40 @@
-
 # Jobs
-# DAIICT
-- company: Dhirubhai Ambani Institute of Technology (DAIICT)
-  position: Research Intern
-  duration: Nov, 2022 &mdash; June 2023
+
+# Walmart
+- company: Walmart Inc
+  position: Customer Service Representative
+  duration: June'23 - Present
   summary: >-
     <ul class="resume-item-list">
-      <li>Orchestrated the collection of an extensive dataset exceeding 1.5 million tweets from Twitter, utilizing Twitter API and Selenium, optimized storage in MongoDB with a tailored schema for efficient retrieval and analysis.
-      </li>
-      <li>Applied advanced text preprocessing and leveraged BERT embeddings on the comprehensive dataset, aligning methodologies with referenced research to discern nuanced public sentiment on inflation, showcasing adeptness in Natural Language Processing.
-      </li>
-      <li>Executed precise topic modeling with the BERTopic library, extracting inflation-related tweets from the extensive dataset; enhanced sentiment analysis accuracy through meticulous manual annotation and strategic hyperparameter tuning.
-      </li>
-      <li>Demonstrated strong interpersonal and communication skills within a collaborative team, annotated 300 tweets resulting in the finetuning of model classification accuracy; providing nuanced insights into public expectations regarding inflation.
-      </li>
+      <li>Customer Service Associate at Walmart dedicated to providing exceptional assistance and fostering positive customer interactions, skilled in resolving inquiries, processing transactions, and maintaining an organized store environment. I am committed to ensuring customer satisfaction and contributing to team success.</li>
     </ul>
 
-# HASOC
-- company: Hate Speech and Offensive Content Identification (HASOC)
-  position: Student Organizer
-  duration:  Jun, 2021 &mdash; Present
+
+# Trainity
+- company: Trainity
+  position: Data Analyst Intern
+  duration:  Nov'22 - Jan'23
   summary: >-
     <ul class="resume-item-list">
-      <li>Spearheaded backend development, devising and implementing a robust API. Conducted extensive testing using Postman and meticulously documented the system for seamless integration.
-      </li>
-      <li>Engineered an innovative user registration system stored in MongoDB. Contributed in the development of the annotation platform while actively participating in collaborative organizational meetings, showcasing strong interpersonal skills.
-      </li>
-      <li>Promoted to Student Organizer, led the identification of hate speech in Gujarati tweets, orchestrated strategic collection of 1200 tweets using Selenium, and played a pivotal role in hands-on model fine-tuning with manual annotation of 200 tweets, leveraging Hugging Face for enhanced performance.
-      </li>
+      <li>Explored IMDB Movies data to gain insights on the top 250 movies, best directors, popular genres, and critic-favorite actors. Conducted a 5 Whys approach to formulate a hypothesis.</li>
+      <li>Cleaned and analyzed bank loan data of over 50,000 users to inform data-driven decisions and increase revenue by 2x while decreasing client default rate by 25%.</li>
+      <li>Analyzed over 170k automobile brand ads to suggest a media plan to the CMO of Mahindra & Mahindra for better customer targeting, resulting in a 10% sales lift.</li>
+      <li>Conducted EDA of inbound call data to determine call duration and volume, resulting in a 100% decrease in call drop rate through the implementation of a manpower plan.</li>
+      <li>Studied SQL fundamentals by working on a case study of Instagram user data, resulting in improved user engagement.</li>
+      <li>Trained advanced SQL skills through a case study of operation analytics, resulting in insights on job review, throughput, user engagement, growth, retention, and engagement metrics.</li>
+      <li>Improved statistics skills through cleaning and performing EDA on hiring data, resulting in insights on a number of hires by gender, average salary, and visualized data in charts and graphs.</li>
     </ul>
 
-# BrainyBeam
-- company: BrainyBeam Technologies Pvt. Ltd.
-  position: Data Science Intern
-  duration: June 2022 &mdash; July 2022
+
+
+# Axis Ray
+- company: Axis Ray
+  position: Python Developer Intern
+  duration:  Jun'22 - Nov'22
   summary: >-
     <ul class="resume-item-list">
-      <li>Developed a recommender system utilizing Linguistics and Contextual-Based approach for sentiment identification using SVM or Bayes classifier, achieving an accuracy rate of approximately 68% with ML Algorithms.
-      </li>
-      <li>Utilized NLP methodologies to analyze and predict sentiments associated with generated content, such as reviews and comments, leveraging RNN and LSTM models, to extract insights and enhance content understanding.
-      </li>
+      <li>Executed day-to-day activities such as meeting with the team to design, maintain, and implement the project.</li>
+      <li>Debugging and troubleshooting issues to improve application performance to functionality.</li>
+      <li>Meeting with clients on call to review their experience and fulfill their needs. Be up-to-date with the team lead by letting them know about the work on the ongoing project and further discuss the aims and goals of the team.</li>
+      <li>Faced and solved several challenges during the project which increased my problem-solving abilities.</li>
     </ul>
