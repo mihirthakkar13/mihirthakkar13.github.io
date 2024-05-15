@@ -1,21 +1,12 @@
 - skill: Programming Languages
-  description: Python, R, SQL, C, Java(Basic)
+  description: Python, R, SQL, SAS, C, C++
 
-- skill: Frameworks
-  description: PyTorch, TensorFlow, OpenCV, Langchain, Flask, Django, FastAPI
-
-- skill: Libraries
-  description: Scikit-Learn, NLTK, spaCy, Gensim, Pandas, NumPy, Regex, Matplotlib, Seaborn, Selenium
-
-- skill: Databases
-  description: PostgreSQL, MySQL, MongoDB
-
-- skill: Models
-  description: GPT, BERT, Transformers, RNN, CNN, LSTM, YOLO, SSD, Bagging, Boosting, Rgeression, Classification, Clustering, NLP, Computer Vision, Time Series
+- skill: Data Analysis
+  description: Numpy, Pandas, Power Bi, Microsoft Excel, SQL, Microsoft Access, Hadoop, Spark, AWS Glue, AWS Lambda
 
 - skill: Cloud
-  description: AWS, Google Cloud Platform, IBM Cloud
+  description: AWS
 
 - skill: Tools
-  description: Git, GitHub, Bash, AWS, Tableua, Postman, Heroku, Docker, Data Analysis, Data Modelling, Data Visualization, Hugging Face, VS Code, PyCharm, Jupyter Notebook, Google Colab
+  description: Git, GitHub, AWS, Power BI, Data Analysis, Data Modelling, Data Visualization, VS Code, PyCharm, Jupyter Notebook, Google Colab
 
