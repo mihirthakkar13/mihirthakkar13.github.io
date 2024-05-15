@@ -8,7 +8,7 @@
   description: >-
     <b>Technologies Used:</b> Python, Deep Learning, MLflow, DVC, AWS, Docker, GitHub Actions
     <ul class="resume-item-list">
-      <li>Data Wrangling: Learned how to effectively preprocess and clean raw data to prepare it for analysis, including handling missing values and converting variables into appropriate formats.
+      <li><b>Data Wrangling</b>: Learned how to effectively preprocess and clean raw data to prepare it for analysis, including handling missing values and converting variables into appropriate formats.
       </li>
       <li>Statistical Analysis: Developed proficiency in conducting various statistical analyses, such as t-tests, Shapiro-Wilk tests, and descriptive statistics, to uncover patterns and relationships within the dataset.
       </li>
