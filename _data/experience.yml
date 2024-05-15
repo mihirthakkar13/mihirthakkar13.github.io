@@ -5,13 +5,11 @@
   duration: June'23 - Present
   summary: >-
     <ul class="resume-item-list">
-      <li>Orchestrated the collection of an extensive dataset exceeding 1.5 million tweets from Twitter, utilizing Twitter API and Selenium, optimized storage in MongoDB with a tailored schema for efficient retrieval and analysis.
+      <li>Customer Service Associate at Walmart dedicated to providing exceptional assistance and fostering positive customer interactions, skilled in resolving inquiries, processing transactions, and maintaining an organized store environment. I am committed to ensuring customer satisfaction and contributing to team success.
       </li>
-      <li>Applied advanced text preprocessing and leveraged BERT embeddings on the comprehensive dataset, aligning methodologies with referenced research to discern nuanced public sentiment on inflation, showcasing adeptness in Natural Language Processing.
-      </li>
-      <li>Executed precise topic modeling with the BERTopic library, extracting inflation-related tweets from the extensive dataset; enhanced sentiment analysis accuracy through meticulous manual annotation and strategic hyperparameter tuning.
-      </li>
-      <li>Demonstrated strong interpersonal and communication skills within a collaborative team, annotated 300 tweets resulting in the finetuning of model classification accuracy; providing nuanced insights into public expectations regarding inflation.
+
+      <li>
+      
       </li>
     </ul>
 
@@ -52,9 +50,16 @@
   duration:  Jun'22 - Nov'22
   summary: >-
     <ul class="resume-item-list">
-      <li>Executed day-to-day activities such as meeting with the team to design, maintain, and implement the project. Debugging and troubleshooting issues to improve application performance to functionality.
+      <li>Executed day-to-day activities such as meeting with the team to design, maintain, and implement the project.
       </li>
-      <li>Meeting with clients on call to review their experience and fulfill their needs. Be up-to-date with the team lead by letting them know about the work on the ongoing project and further discuss the aims and goals of the team. Faced and solved several challenges during the project which increased my problem-solving abilities.
+
+      <li>Debugging and troubleshooting issues to improve application performance to functionality.
+      </li>
+      
+      <li>Meeting with clients on call to review their experience and fulfill their needs. Be up-to-date with the team lead by letting them know about the work on the ongoing project and further discuss the aims and goals of the team.
+      </li>
+
+      <li>Faced and solved several challenges during the project which increased my problem-solving abilities.
       </li>
     
     </ul>
