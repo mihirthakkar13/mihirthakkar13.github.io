@@ -1,15 +1,12 @@
 # Jobs
+
 # Walmart
 - company: Walmart Inc
   position: Customer Service Representative
   duration: June'23 - Present
   summary: >-
     <ul class="resume-item-list">
-
-      <li>Customer Service Associate at Walmart dedicated to providing exceptional assistance and fostering positive customer interactions, skilled in resolving inquiries, processing transactions, and maintaining an organized store environment. 
-      I am committed to ensuring customer satisfaction and contributing to team success.
-      </li>
-
+      <li>Customer Service Associate at Walmart dedicated to providing exceptional assistance and fostering positive customer interactions, skilled in resolving inquiries, processing transactions, and maintaining an organized store environment. I am committed to ensuring customer satisfaction and contributing to team success.</li>
     </ul>
 
 
@@ -19,28 +16,13 @@
   duration:  Nov'22 - Jan'23
   summary: >-
     <ul class="resume-item-list">
-    
-    <li>Explored IMDB Movies data to gain insights on the top 250 movies, best directors, popular genres, and critic-favorite actors. Conducted a 5 Whys approach to formulate a hypothesis.
-    </li>
-
-    <li>Cleaned and analyzed bank loan data of over 50,000 users to inform data-driven decisions and increase revenue by 2x while decreasing client default rate by 25%.
-    </li>
-
-    <li>Analyzed over 170k automobile brand ads to suggest a media plan to the CMO of Mahindra & Mahindra for better customer targeting, resulting in a 10% sales lift.
-    </li>
-
-    <li>Conducted EDA of inbound call data to determine call duration and volume, resulting in a 100% decrease in call drop rate through the implementation of a manpower plan.
-    </li>
-
-    <li>Studied SQL fundamentals by working on a case study of Instagram user data, resulting in improved user engagement.
-    </li>
-
-    <li>Trained advanced SQL skills through a case study of operation analytics, resulting in insights on job review, throughput, user engagement, growth, retention, and engagement metrics.
-    </li>
-
-    <li>Improved statistics skills through cleaning and performing EDA on hiring data, resulting in insights on a number of hires by gender, average salary, and visualized data in charts and graphs.
-    <li>
-    
+      <li>Explored IMDB Movies data to gain insights on the top 250 movies, best directors, popular genres, and critic-favorite actors. Conducted a 5 Whys approach to formulate a hypothesis.</li>
+      <li>Cleaned and analyzed bank loan data of over 50,000 users to inform data-driven decisions and increase revenue by 2x while decreasing client default rate by 25%.</li>
+      <li>Analyzed over 170k automobile brand ads to suggest a media plan to the CMO of Mahindra & Mahindra for better customer targeting, resulting in a 10% sales lift.</li>
+      <li>Conducted EDA of inbound call data to determine call duration and volume, resulting in a 100% decrease in call drop rate through the implementation of a manpower plan.</li>
+      <li>Studied SQL fundamentals by working on a case study of Instagram user data, resulting in improved user engagement.</li>
+      <li>Trained advanced SQL skills through a case study of operation analytics, resulting in insights on job review, throughput, user engagement, growth, retention, and engagement metrics.</li>
+      <li>Improved statistics skills through cleaning and performing EDA on hiring data, resulting in insights on a number of hires by gender, average salary, and visualized data in charts and graphs.</li>
     </ul>
 
 
@@ -50,17 +32,8 @@
   duration:  Jun'22 - Nov'22
   summary: >-
     <ul class="resume-item-list">
-
-      <li>Executed day-to-day activities such as meeting with the team to design, maintain, and implement the project.
-      </li>
-
-      <li>Debugging and troubleshooting issues to improve application performance to functionality.
-      </li>
-      
-      <li>Meeting with clients on call to review their experience and fulfill their needs. Be up-to-date with the team lead by letting them know about the work on the ongoing project and further discuss the aims and goals of the team.
-      </li>
-
-      <li>Faced and solved several challenges during the project which increased my problem-solving abilities.
-      </li>
-    
+      <li>Executed day-to-day activities such as meeting with the team to design, maintain, and implement the project.</li>
+      <li>Debugging and troubleshooting issues to improve application performance to functionality.</li>
+      <li>Meeting with clients on call to review their experience and fulfill their needs. Be up-to-date with the team lead by letting them know about the work on the ongoing project and further discuss the aims and goals of the team.</li>
+      <li>Faced and solved several challenges during the project which increased my problem-solving abilities.</li>
     </ul>
