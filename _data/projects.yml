@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Comparative Analysis of College Metrics Across Re
+- project: Comparative Analysis of College Metrics Across Region
   role: Data Analysis
   # url: "#"
   description: >-
-    <b>Technologies Used:</b> Python, Deep Learning, MLflow, DVC, AWS, Docker, GitHub Actions
+    # <b>Technologies Used: R Language, R Markdown</b> 
     <ul class="resume-item-list">
       <li><b>Data Wrangling</b>: Learned how to effectively preprocess and clean raw data to prepare it for analysis, including handling missing values and converting variables into appropriate formats.
       </li>
@@ -24,6 +24,41 @@
       <b>Continuous Learning</b>: Embraced a growth mindset and a commitment to lifelong learning, recognizing the importance of staying updated with emerging trends and advancements in data analysis and education research.
       </li>
     </ul> 
+
+   
+
+
+
+
+
+project: Shreeji Annual Sales Report
+  role: Data Analysis
+description: >-
+  #<b>Technologies Used: Microsoft Excel </b> 
+    <ul class="resume-item-list">
+      <li> Data Cleaning: Improved my ability to identify and rectify inconsistencies and null values in datasets.
+      </li>
+
+      <li> Data Processing: Enhanced my skills in categorizing and organizing data for more effective analysis.
+      </li>
+
+      <li>Data Visualization: Gained proficiency in creating pivot tables and various charts to clearly present data insights.
+      </li>
+
+      <li>Analytical Thinking: Developed a deeper understanding of how to derive actionable insights from complex datasets.
+      </li>
+
+      <li>Strategic Planning: Learned how to translate data insights into strategic recommendations to drive business growth.
+      </li>
+
+      <li>Tools and Technologies: Microsoft Excel for data cleaning, processing, and visualization.
+      </li>
+
+      <li>This project significantly enhanced my skills in data analysis and provided actionable insights for driving business growth.
+      </li>
+
+    </ul>
+
 
 # # Quora Question Pair Similarity Detection using NLP
 # - project: Quora Question Pair Similarity Detection using NLP
