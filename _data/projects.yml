@@ -29,12 +29,12 @@
 
 
 # jazznotes.io
-project: Shreeji Annual Sales Report
-role: Data Analysis
-# url: "#"
-description: >-
-  #<b>Technologies Used: Microsoft Excel </b> 
-  <ul class="resume-item-list">
+- project: Shreeji Annual Sales Report
+  role: Data Analysis
+  # url: "#"
+  description: >-
+    #<b>Technologies Used: Microsoft Excel </b> 
+    <ul class="resume-item-list">
       <li> Data Cleaning: Improved my ability to identify and rectify inconsistencies and null values in datasets.
       </li>
 
@@ -56,4 +56,4 @@ description: >-
       <li>This project significantly enhanced my skills in data analysis and provided actionable insights for driving business growth.
       </li>
 
-  </ul>
+    </ul>
