@@ -4,7 +4,13 @@
   year: 2023 — 2025
   GPA: 3.6/4.0
   courses:
-      
+    - semester: Fall'24
+      subjects:
+        - IDS-472  Business Data Mining
+        - IDS-435  Optimization for Analytics
+        - IDS-420  Business Model Simulation
+        - FIN-310  Investments
+        - STAT-385 Statistical Techniques for Machine Learning and Big Data
     - semester: Spring'24
       subjects:
         - CS - 211    C Programming
@@ -17,14 +23,6 @@
         - FIN - 300   Introduction to finance
         - IDS - 473   Risk Manegment and Insurance 
         - STAT- 481  Applied Staistical Methods ||
-
-    - semester: Fall'24
-      subjects:
-        - IDS-472  Business Data Mining
-        - IDS-435  Optimization for Analytics
-        - IDS-420  Business Model Simulation
-        - FIN-310  Investments
-        - STAT-385 Statistical Techniques for Machine Learning and Big Data
         
   summary: 
 
